@@ -14,7 +14,7 @@ measurementId: "G-HJ8KLMN12P",
 };
 ```
 (not a real firebase config)
-you should just implement it in your backend, don't dm me about "how to connect frontend to backend in the language node.js" like please just don't. Also if you aren't gonna buy a server and stick to github pages static/w3spaces, atleast add rules to your firebase so people can't abuse it. Well this is enough ranting for one day, you probably didn't read all of this but I don't expect you to this is me letting out my feelings on vplaza + explanation on my commits for yalls wondering peace!
+you should just implement it in your backend, don't dm me about "how to connect frontend to backend in the language node.js" like please just don't. Also if you aren't gonna buy a server and stick to github pages static/w3spaces, atleast add rules to your firebase so people can't abuse it. Well this is enough ranting for one day, you probably didn't read all of this but I don't expect you to this is me letting out my feelings on vplaza + explanation on my commits, and is like a teaching skids thing too, how to secure your application. Peace!
 
 
 ![img 😂](https://raw.githubusercontent.com/pulsecodes/pulsecodes/main/skid-hacker.png)
